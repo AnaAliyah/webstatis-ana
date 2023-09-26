@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>PERPUSTAKAAN NASIONAL</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>h1 {text-align: center;}
+    img {float: left;}
+    table, th, td {border: 1px solid blue; border-radius: 10px;}
+    #DENAHGEDUNG {
+        background-color: aqua; 
+        color: black; 
+        padding: 40px; 
+        text-align: center;
+    }
+    /*Style all elements with the class name "section"*/ 
+    .section {
+        background-color: aqua; 
+        color:black; 
+        border: 2px solid black; 
+        margin: 20px; 
+        padding: 20px:
+    }
+    </style>
+</head>
+<body>
+ <h1 style="background-color: brown; font-family: verdana ; color: aliceblue; font-size: 40px;">PERPUSNAS RI</h1>  
+ <h2 style= "font-size:30px;font-family:verdana;"><b>Profil Perpustakaan</b></h2>
+ <p style= "font-size:20px;font-family:verdana; text-align: justify;"><img src="https://manunggal.undip.ac.id/wp-content/uploads/2021/04/677.jpg" width="250" height="350"
+    style="margin-right: 10px;" >
+    Nasional Republik Indonesia (disingkat Perpusnas) adalah Lembaga Pemerintah Nonkementerian yang melaksanakan tugas 
+    pemerintahan dalam bidang perpustakaan yang berfungsi sebagai perpustakaan pembina, perpustakaan rujukan, perpustakaan deposit, 
+    perpustakaan penelitian, perpustakaan pelestarian, dan pusat jejaring perpustakaan, serta berkedudukan di ibu kota negara. 
+    Gedung Fasilitas Layanan Perpustakaan Nasional berlokasi di Jalan Medan Merdeka Selatan No.11, Jakarta dan sebagian besar 
+    perkantorannya di Jalan Salemba Raya No. 28A. Perpustakaan Nasional berada di bawah dan bertanggung jawab kepada Presiden. 
+    Pada tanggal 14 September 2017, Presiden Joko Widodo meresmikan Gedung Fasilitas Layanan Perpusnas baru yang merupakan perpustakaan 
+    nasional tertinggi di dunia (126,3 meter) dengan 24 lantai, ditambah tiga lantai parkir bawah tanah (basement).</p>
+ <br>
+ <p style= "font-size:20px;font-family:verdana; text-align: justify;">Awalnya, Perpustakaan Nasional RI merupakan salah satu perwujudan dari penerapan dan pengembangan sistem nasional perpustakaan, secara menyeluruh dan terpadu, sejak dicanangkan pendiriannya tanggal 17 Mei 1980 oleh Menteri Pendidikan dan Kebudayaan, Daoed Joesoef. Ketika itu kedudukannya masih berada dalam lingkungan Departemen Pendidikan dan Kebudayaan setingkat eselon II di bawah Direktorat Jenderal Kebudayaan, dan badan ini merupakan hasil integrasi dari empat perpustakaan besar di Jakarta.</p>
+
+ <!--Block Inline-->
+<address style= "font-size:16px;font-family:verdana;">Website Perpustakaan: <a href="https://www.perpusnas.go.id/">Perpustakaan Nasional Republik Indonesia</a></address>
+<br>
+<hr>
+
+<!--List-->
+<h2 style= "font-size:30px;font-family:verdana;"><b>Jam Operasional Layanan</b></h2>
+<dl style= "font-size:20px;font-family:verdana;">
+    <dt><b>Senin-Jum'at</b></dt>
+    <dd>Buka 08.00 - 16.00 WIB</dd>
+    <br>
+    <dt><b>Sabtu-Minggu</b></dt>
+    <dd>Buka 09.00 - 15.30</dd>
+    <br>
+    <dt><b>Cuti Bersama dan Libur Nasional</b></dt>
+    <dd>Tutup</dd>
+</dl>
+<h2 style= "font-size:30px;font-family:verdana;">Layanan Perpustakaan</h2>
+<ol style= "font-size:20px;font-family:verdana;">
+    <li>Layanan Umum</li>
+    <li>Layanan Penerbit</li>
+    <li>Layanan Katalog</li>
+</ol>
+<h2 style= "font-size:30px;font-family:verdana;">Koleksi Perpustakaan</h2>
+<ul style= "font-size:20px;font-family:verdana;">
+    <li>Buku/Monograf</li>
+    <li>Referensi</li>
+    <li>Koleksi Digital</li>
+</ul>
+<hr>
+<!--Table-->
+<h2 style= "font-size:30px;font-family:verdana; text-align: center">Fasilitas Perpustakaan</h2>
+<table style= "font-size:20px;font-family:verdana;">
+    <tr>
+        <th>Fasilitas</th>
+        <th>Keterangan</th>
+    </tr>
+    <tr>
+        <td>Layanan Audiovisual</td>
+        <td>Layanan multimedia (audio visual) adalah layanan yang secara langsung bersentuhan dengan TI. Koleksi audio visual yang 
+            dimiliki adalah dalam bentuk CD, CD ROM, disket dan kaset .</td>
+    </tr>
+    <tr>
+        <td>Layanan Koleksi Monograf Terbuka</td>
+        <td>Monograf terbuka berarti buku bacaan di ruang baca itu bisa dipinjam dan dibaca. Ruang baca di lantai 21 cukup nyaman, 
+            selain ada meja baca, pengunjung yang hendak membaca buku juga bisa membaca sambil tiduran di kursi malas yang disediakan.</td>
+    </tr>
+    <tr>
+        <td> Layanan Anak, Lansia, dan Difabel</td>
+        <td>Layanan Lansia dan Disabilitas memiliki 3.276 judul buku edisi Braille dan 462 audio book atau buku yang disuarakan, yang meliputi 
+            biografi, fiksi, non-fiksi, buku agama, dan buku pengetahuan.
+            Koleksi novel fiksi edisi Braille milik Perpustakaan Nasional (Perpusnas) cukup lengkap, mencakup beberapa novel yang sudah diangkat 
+            ke layar lebar seperti Dilan karya Pidi Baiq dan Bumi Manusia karya Pramoedya Ananta Toer.</td>
+    </tr>
+</table>
+<!--ID-->
+<h2 id="DENAHGEDUNG">DENAH GEDUNG</h2>
+<div class="section"></div>
+</body>
+</html>
