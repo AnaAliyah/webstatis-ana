@@ -1,0 +1,89 @@
+*{margin: 0;
+    padding: 0;}
+
+img {width: 75%; height: auto; image-resolution: 100%;  }
+
+body { 
+background-image: url(Images/potrait.webp);
+background-repeat: no-repeat;
+background-size: cover;}
+
+h1 {font-family: 'courier new';
+text-align: center;
+font-size: 45px;
+text-shadow: 2px 6px 8px rgb(216, 141, 49);}
+
+h2 {font-family: courier;
+text-align: center;
+font-size: 35px;}
+
+h3 {font-family: monospace;
+font-size: 28px;
+padding: 10px;
+width: 1200px;
+margin: auto;}
+
+p {font-family: monospace;
+font-size: 20px;
+text-align: justify;
+padding: 10px;
+width: 1200px;
+margin: auto;}
+
+ol {font-family: monospace;
+    font-size: 20px;
+    text-align: justify;}
+
+ul {font-family: monospace;
+    font-size: 20px;
+    text-align: justify;
+width: 1100px;
+margin:auto;
+padding: 30px}
+
+.Misi {
+    background-color: rgb(176, 228, 200);
+    width: 900px;
+    border: 8px solid rgb(223, 108, 55);
+    padding: 40px;
+    margin: auto;}
+
+ul.Fungsi {background: #ff9999;
+    padding: 20px;}
+ul.Landarchief {background: #3399ff;
+    padding: 20px;}
+      
+ul.fungsi li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;}
+      
+li.Landarchief {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;}
+
+#Daftar  {
+        font-family: monospace;
+        border-collapse: collapse;
+        width: 1100px;
+margin:auto;
+padding: 30px;
+      }
+      
+#Daftar td, #Daftar th {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+      
+#Daftar tr:nth-child(even){background-color: #f2f2f2;}
+      
+#Daftar tr:hover {background-color: #ddd;}
+      
+#Daftar th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #94e2c6;
+        color: rgb(6, 5, 5);}
