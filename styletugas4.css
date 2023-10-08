@@ -1,0 +1,75 @@
+*{margin: 0;
+    padding: 0;
+}
+img {width: 100%;image-resolution: 100%;}
+body {/*background-color: rgb(179, 224, 221)*/
+background-image: url(Images/background\ 2.avif);
+background-repeat: no-repeat;
+background-size: cover;}
+
+h1 {color: rgb(40, 72, 70);
+font-family: verdana;
+text-align: center;
+margin: 40px 30px;}
+
+h2 {color:rgb(39, 119, 104);
+font-size: 36px;
+font-family: verdana;
+font-weight: bold;
+text-align: center;
+border-style: dashed;
+border-width: 5px;
+border-color: rgb(99, 58, 114);}
+
+p {font-size: 20px;
+text-align: justify;
+font-family: verdana;
+line-height: 30px;
+padding: 20px;
+width: 900px;
+margin: 30px auto;}
+
+d1 {line-height: 25px;
+font-size: 25px;;
+font-family: verdana;
+}
+
+dt {font-family: verdana;
+background-color: rgb(185, 171, 151);
+margin-top: 30px;
+padding: 5px;}
+
+dd {background-color: antiquewhite;
+font-family: verdana;
+font-size: 20px;
+text-indent: 40px;
+text-align: justify;
+width: 100%;
+height: 100%;
+line-height: 30px;
+padding: 10px;
+box-sizing: border-box; }
+
+a {color: rgb(6, 91, 63);
+text-decoration: underline;
+text-transform: capitalize;
+line-height: 30px;
+padding: 20px;}
+
+.diskografi {width: 900px;
+    margin: 30px auto;}
+
+d1 img {background-color: bisque;
+width: 200px;
+/*border-top-left-radius: 50px;*/
+border-radius: 75px;
+float: right;
+/*margin-top: 10px;
+margin-right: 20px;*/
+margin: 10px 20px 10px 0px;
+padding: 10px;}
+
+.clear {clear:right;}
+
+.footer {margin-left: 100px;
+text-align: center;}
