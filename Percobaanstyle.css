@@ -1,7 +1,4 @@
-*{margin: 0;
-    padding: 0;}
-
-img {width: 75%; height: auto; image-resolution: 100%;  }
+img {width: 75%; height: auto; image-resolution: 100%; margin-left: 210px;; }
 
 body { 
 background-image: url(Images/potrait.webp);
@@ -42,10 +39,8 @@ margin:auto;
 padding: 30px}
 
 .Misi {
-    background-color: rgb(176, 228, 200);
-    width: 900px;
-    border: 8px solid rgb(223, 108, 55);
-    padding: 40px;
+    width: 1100px;
+    padding: 10px;
     margin: auto;}
 
 ul.Fungsi {background: #b13696;
@@ -85,3 +80,30 @@ padding: 30px;
         background-color: #378b6c;
         color: rgb(6, 5, 5);
     text-align: center;}
+
+    a:link, a:visited {
+        background-color: rgb(225, 214, 207);
+        color: black;
+        border: rgb(21, 120, 95);
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+
+#Contact td {font-family: monospace;
+    font-size: 20px;
+    width: 100px;
+margin-left: 260;
+padding: 10px}
+     
+
+a:hover, a:active {
+        background-color: rgb(118, 83, 29);
+        color: white;}
+    
+    a {font-family: monospace;
+        font-size: 20px;
+        padding: 10px;
+        width: 180px;
+        margin-left: 240px;}
